@@ -1,6 +1,6 @@
 {
-  "name": "BWM-XMD",
-  "version": "2.0.0",
+  "name": "Shelby",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "commonjs",
@@ -22,12 +22,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "BWM-XMD",
+    "Shelby",
     "whatsapp",
     "whatsapp-bot",
-    "Ibrahimadams"
+    "Kosher"
   ],
-  "author": "Ibrahimadams",
+  "author": "Kosher",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "latest",
